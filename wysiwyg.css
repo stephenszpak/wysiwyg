@@ -1,0 +1,34 @@
+.elly-img {
+	width: 125px;
+	height: 200px;
+}
+
+.borat-img {
+	width: 250px;
+	height: 200px;
+}
+
+.uls {
+    margin: 5px;
+
+    display: inline-block;
+}
+
+.dotted-border{
+  border: 2px dotted;
+}
+
+.person-style {
+	margin: 5px;
+	display: inline-block;
+}
+
+.even {
+	text-align: center;
+	background-color: lightyellow;
+}
+
+.odd {
+	text-align: center;
+	background-color: lightblue;
+}
